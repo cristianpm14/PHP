@@ -17,5 +17,6 @@ $rs=mysqli_query($con,$sql);
     </select><br>
    Escribe nombre nuevo: <br><input type="text" name="nom">
     <input type="submit">
+</form>
 </body>
 </html>
